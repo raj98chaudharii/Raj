@@ -1,0 +1,73 @@
+[
+  {
+    "project": "Notion FL.",
+    "url": "https://github.com/Ratheshan03/NotionFL",
+    "repo": "Private",
+    "descriptionTitle": "Final Year Project",
+    "description": "An Explainable Mediator for Trustworthy Cross-silo Federated Learning. \n (In-Progress)",
+    "imageOptions": [],
+    "images": [
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/image2.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "right",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/01.png"
+      },
+      {
+        "key": "mock-stack",
+        "hover": "left",
+        "h": "1200",
+        "w": "556",
+        "url": "/img/msc-mock_stack/image1.png"
+      }
+    ],
+    "stack": [
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "python", "name": "Python", "type": "devicon" },
+      { "key": "matplotlib", "name": "Matplotlib", "type": "devicon" },
+      { "key": "flask", "name": "Flask", "type": "devicon" },
+      { "key": "fsharp", "name": "ShapleyValues", "type": "devicon" },
+      { "key": "tensorflow", "name": "Tensorflow", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwind", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  },
+  {
+    "project": "Ratheshan Portfolio",
+    "url": "https://github.com/Ratheshan03/Ratheshan-Portfolio",
+    "repo": "Public",
+    "descriptionTitle": "An open source portfolio",
+    "description": "built on Next.js and React. Fast and agile MERN stack single page application.",
+    "imageOptions": [{ "key": "size", "value": "large" }],
+    "images": [
+      {
+        "key": "portfolio",
+        "hover": "left",
+        "h": "797",
+        "w": "556",
+        "url": "/img/msc-mock_stack/image3.png"
+      }
+    ],
+    "stack": [
+      { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+      { "key": "react", "name": "React", "type": "devicon" },
+      { "key": "nodejs", "name": "Node.js", "type": "devicon" },
+      { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+      { "key": "javascript", "name": "JavaScript", "type": "devicon" },
+      { "key": "html5", "name": "HTML5", "type": "devicon" },
+      { "key": "css3", "name": "CSS3", "type": "devicon" },
+      { "key": "sass", "name": "SCSS", "type": "devicon" },
+      { "key": "tailwindcss", "name": "Tailwind CSS", "type": "devicon" },
+      { "key": "git", "name": "Git(Hub)", "type": "devicon" }
+    ]
+  }
+]
